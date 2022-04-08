@@ -8,7 +8,7 @@
     <img src="imgs/example1.png">
 </center>
 
-<p>É importante lembrar que, para esse makefile funcionar, seus arquvios '.c' deverão em uma pasta <code> /'src'</code>, mas você pode apenas alterar no makefile o nome da sua pasta. *LINHA 9*</p><hr/>
+<p>É importante lembrar que, para ESTE makefile funcionar, seus arquvios '.c' deverão em uma pasta <code> /'src'</code>, se preferir, você pode apenas alterar no makefile para o nome da pasta em que seus '.c' se encontram. *LINHA 9*</p><hr/>
 
 <p><b>2º Certifique-se, pelo endereço indicado, que o terminal está rodando na pasta correta ⇣</b></p>
 
